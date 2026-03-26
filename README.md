@@ -40,6 +40,10 @@ Run specific phases:
 | 1 | Warning — litellm present but safe version |
 | 2 | Compromised — malicious version or IOC artifacts detected |
 
+## Support
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/evenfire)
+
 ## License
 
 MIT
