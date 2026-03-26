@@ -2,6 +2,13 @@
 
 Audit script to detect indicators of compromise from the [litellm supply chain attack](https://snyk.io/articles/poisoned-security-scanner-backdooring-litellm/) (versions 1.82.7 / 1.82.8, March 2026).
 
+## Supported platforms
+
+- **macOS** (Apple Silicon and Intel)
+- **Linux**
+
+The script auto-detects the platform and adjusts checks accordingly (e.g. LaunchAgents on macOS, systemd on Linux).
+
 ## Usage
 
 ```bash
